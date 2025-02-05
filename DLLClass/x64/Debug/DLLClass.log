@@ -1,0 +1,3 @@
+﻿  DLLClass.cpp
+D:\Desktop\DLLClass\DLLClass\clsDblLinkedList.h(290): warning C4715: 'clsDblLinkedList<int>::GetNode': not all control paths return a value
+  DLLClass.vcxproj -> D:\Desktop\DLLClass\x64\Debug\DLLClass.exe
