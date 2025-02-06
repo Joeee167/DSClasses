@@ -29,3 +29,40 @@
   ```
     ./dll_example
   ```
+
+# Methods Explained
+
+```
+   InsertAtBeginning(T x)
+```
+
+-> Inserts an element at the start of the list.
+
+```
+   InsertAtEnd(T x)
+```
+-> Adds an element to the end of the list.
+
+```
+   PrintList()
+```
+
+-> Displays the list contents.
+
+```
+   Size()
+```
+
+-> Returns the number of elements in the list.
+
+```
+   Clear()
+```
+
+-> Clear all the nodes in the list.
+
+```
+   Reverse()
+```
+
+-> Reverse the list nodes
