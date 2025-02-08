@@ -1,7 +1,9 @@
-## Doubly Linked List (DLL) Implementation
+## DS Classes
 
 # Overview
-   - This project implements a Doubly Linked List (DLL) in C++ using templates. The clsDblLinkedList class provides various methods for inserting, traversing, and managing nodes efficiently.
+   - This project implements various data structures using a Doubly Linked List (DLL) in C++ with templates.
+   - The clsDblLinkedList class serves as the foundation for Stacks, Queues, and Deques, providing efficient insertion, traversal, and management of nodes.
+   - It supports LIFO (Last In, First Out) and FIFO (First In, First Out) operations, allowing it to function as a Stack and Queue, respectively.
 
 # Features
   - Supports generic data types using templates.
